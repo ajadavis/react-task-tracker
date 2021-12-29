@@ -1,3 +1,18 @@
+This App was made using the "create-react-act" module, and the associated README included in that module is appended below.
+
+This app utilizes basic React to show case the framework in an easy to understand way. A mock backend is utilized by means of json-server- the conents of the db can be found in the db.json file. The db runs on port 5000 of localhost, and can be started with "npm run server".
+
+Once the server is up, you can run "npm start" and the webapp will launch on http://localhost:3000. 
+
+Functionality:
+You may add a new task by selecting the green "Add" button. This will present you with a form to enter details on the new app to track.
+A green vertical bar on the left side of a task indicates that the task reminder is set. You can set/unset reminders by double clicking on the task.
+
+
+Credit to Tutorial:
+Traversy Media - https://www.youtube.com/watch?v=w7ejDZ8SWv8
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
